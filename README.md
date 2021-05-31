@@ -11,3 +11,5 @@ The `sql_zoo.sql` file is divided into the tutorial sub-headings:
 > SELECT from World
 
 > SELECT from Nobel
+
+> SELECT within SELECT
