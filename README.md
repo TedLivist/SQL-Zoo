@@ -13,3 +13,5 @@ The `sql_zoo.sql` file is divided into the tutorial sub-headings:
 > SELECT from Nobel
 
 > SELECT within SELECT
+
+> SUM and COUNT
