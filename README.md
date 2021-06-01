@@ -17,3 +17,7 @@ The `sql_zoo.sql` file is divided into the tutorial sub-headings:
 > SUM and COUNT
 
 > JOIN
+![join](./images/join_table_format.jpg)
+
+> More JOIN
+![more_join](./images/more_join_table_format.jpg)
