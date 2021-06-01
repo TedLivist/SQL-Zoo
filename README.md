@@ -23,5 +23,7 @@ The `sql_zoo.sql` file is divided into the tutorial sub-headings:
 > ![more_join](./images/more_join_table_format.jpg)
 
 - Using NULL
-> ![!null](./images/null_format.jpg)
+> ![null](./images/null_format.jpg)
 
+- Self JOIN
+> ![self_join](./images/self_join_format.jpg)
