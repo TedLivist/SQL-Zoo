@@ -6,20 +6,22 @@ The exercises can be found [here](http://sqlzoo.net/wiki/Main_Page)
 
 The `sql_zoo.sql` file is divided into the tutorial sub-headings:
 
-> SELECT basics
+- SELECT basics
 
-> SELECT from World
+- SELECT from World
 
-> SELECT from Nobel
+- SELECT from Nobel
 
-> SELECT within SELECT
+- SELECT within SELECT
 
-> SUM and COUNT
+- SUM and COUNT
 
-> JOIN
+- JOIN
+>![join](./images/join_table_format.jpg)
 
-![join](./images/join_table_format.jpg)
+- More JOIN
+> ![more_join](./images/more_join_table_format.jpg)
 
-> More JOIN
+- Using NULL
+> ![!null](./images/null_format.jpg)
 
-![more_join](./images/more_join_table_format.jpg)
